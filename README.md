@@ -1,6 +1,6 @@
 # vue-admin-sails
 
-a [Sails](http://sailsjs.com) application
+a [Sails](http://sailsjs.com) application - great framework!
 
 An integration of Sails-generate-new-webpack-vue and Vue-admin
 https://www.npmjs.com/package/sails-generate-new-webpack-vue
