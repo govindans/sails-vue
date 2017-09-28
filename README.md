@@ -9,3 +9,5 @@ https://github.com/vue-bulma/vue-admin
 1. Clone
 2. npm install
 3. sails lift
+
+test
